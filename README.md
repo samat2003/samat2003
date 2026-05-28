@@ -3,10 +3,10 @@
 <div align="center">
   <img src="profile_banner.png" alt="Samat Zharassov Banner" width="100%">
   
-  <h3>✨ Bridging AI, 3D Graphics, & Web Applications ✨</h3>
+  <h3>✨ Bridging AI Agents, 3D Graphics, & Commercial Software Products ✨</h3>
   
   <p align="center">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/samat-zharassov-a9a1572a6/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:samatv256@gmail.com"><img src="https://img.shields.io/badge/Email-samatv256%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/samat2003"><img src="https://img.shields.io/badge/GitHub-samat2003-181717?logo=github&logoColor=white" alt="GitHub"></a>
   </p>
@@ -15,11 +15,30 @@
 ---
 
 ### 👨‍💻 About Me
-I am a passionate software engineer and creative technologist specializing in building AI-agent compilers, real-time 3D pipelines, and high-performance offline systems. I strive to make software development faster, graphics more efficient, and compliance automatic.
+I am a passionate software engineer and creative builder specializing in constructing real-time AI agents, computer vision depth pipelines, and fully automated local build infrastructures. I thrive on shipping high-performance applications rapidly and scaling startup products.
 
 *   🎓 **Education**: BS in Computer Science (Suffolk University, 2026)
-*   🛠️ **Focus**: Cross-platform system compilers, deep learning, 3D parallax computer vision, and local-first architectures.
-*   🚀 **Active Project**: **Wandalf AI** — generating native cross-platform executables from prompts.
+*   🛠️ **Focus**: Cross-platform compilers, deep learning, 3D parallax computer vision, and local-first architectures.
+*   🚀 **Active Core Focus**: Scaling startup products utilizing advanced AI agents to solve real-world industry pain points.
+
+---
+
+### 🚀 Featured Startup Products & SaaS
+
+#### 🏡 [Shellfeed](https://shellfeed.com)
+A revolutionary mobile real estate marketplace replacing standard filter grids with an engaging, personalized vertical swipe feed (similar to TikTok). 
+- *Tech Stack*: Swift, GPT 5.4, Node.js, Supabase, Claude, Gemini Voice.
+- *Status*: Live at **[shellfeed.com](https://shellfeed.com)**.
+
+#### 🩺 [Hyqorra](https://hyqorra.replit.app/)
+An automated compliance platform for healthcare AI. It intercepts and cryptographically traces every AI agent action, checking it in real time against approved clinical workflow rules.
+- *Tech Stack*: React, AI Compliance logic, Healthcare Tech.
+- *Status*: Live at **[hyqorra.replit.app](https://hyqorra.replit.app/)**.
+
+#### 🛍️ [ShopReply](https://shopreply.org/)
+An automated lead conversion platform for local service businesses and e-commerce. Instantly triggers customized AI SMS text-backs for missed customer phone calls and after-hours requests.
+- *Tech Stack*: Twilio SMS routing, AI Agents, E-commerce APIs.
+- *Status*: Live at **[shopreply.org](https://shopreply.org/)**.
 
 ---
 
@@ -27,7 +46,7 @@ I am a passionate software engineer and creative technologist specializing in bu
 
 | Category | Tech Stack & Frameworks |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Java, C, HTML5/CSS3 |
+| **Languages** | Python, JavaScript, TypeScript, Java, C++, C, HTML5/CSS3 |
 | **AI & ML** | PyTorch, Hugging Face, transformers, Depth Anything V2, Stability AI (TripoSR) |
 | **Graphics & 3D** | Blender API, 3D Reconstruction, 2.5D Parallax, Mesh Generation |
 | **Web & App** | React, Vite, Node.js, Express, Gradio, TailwindCSS, Netlify/Vercel |
@@ -35,23 +54,19 @@ I am a passionate software engineer and creative technologist specializing in bu
 
 ---
 
-### 🚀 Highlighted Repositories
+### 📂 Open Source Repositories
 
 #### 🪄 [Wandalf-AI](https://github.com/samat2003/Wandalf-AI)
-An AI-powered software engineer that lets you compile and run fully native applications for any platform (Mac, Windows, Linux) just by chatting with an AI agent. 
-- *Tech Stack*: React, Vite, Node.js, TailwindCSS.
+An AI software developer tool compiling and packaging fully native applications (.exe, .dmg) just by chatting with an AI agent.
 
 #### 🛡️ [TrustLine Local](https://github.com/samat2003/trustline-local)
-An instant, zero-storage compliance scanner for AI codebases. Text a GitHub URL to a phone number and get an offline compliance audit against 318+ frameworks (EU AI Act, FDA, HIPAA, NIST) in seconds.
-- *Tech Stack*: Python, PyTorch, SMS API gateway, SQLite.
+An instant, offline compliance scanner mapping AI codebase structures against 318+ frameworks (EU AI Act, FDA, HIPAA, NIST) in seconds via SMS.
 
 #### 🌌 [Efficient 3D Models Depth Animation](https://github.com/samat2003/Efficient-3d-models-depth-animation)
-A smart parallax animation generator that converts static images into 3D animations using Depth Anything V2 and a tailored Blender 2.5D scene builder.
-- *Tech Stack*: Python, Depth Anything V2, Transformers, Blender API.
+A computer vision parallax animation generator converting static 2D images into 2.5D displacement layers in Blender using Depth Anything V2.
 
 #### ⚡ [AssetWithAi](https://github.com/samat2003/AssetWithAi)
-A lighting-fast, single-image 3D mesh generator that wraps Stability AI's TripoSR with a premium local Gradio web app for instant assets creation under 0.5 seconds.
-- *Tech Stack*: Python, TripoSR, PyTorch, Gradio.
+A lighting-fast, single-image 3D mesh generator wrapping Stability AI's TripoSR with a local Gradio web app.
 
 ---
 
